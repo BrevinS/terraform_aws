@@ -14,4 +14,5 @@ variable "hidden_secret_key"{
 	type = any # (string, boolean, etc)
 }
 
-
+# .terraform/providers/registry.terraform.io/hashicorp/aws/5.15.0/darwin_arm64/terraform-provider-aws_v5.15.0_x5
+# .terraform/providers/registry.terraform.io/hashicorp/aws/5.15.0/darwin_arm64/terraform-provider-aws_v5.15.0_x5
