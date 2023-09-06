@@ -13,3 +13,5 @@ variable "hidden_secret_key"{
 	description = "Secret Key" # Optional
 	type = any # (string, boolean, etc)
 }
+
+# Next find an idea
