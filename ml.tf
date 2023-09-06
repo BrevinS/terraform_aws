@@ -14,4 +14,4 @@ variable "hidden_secret_key"{
 	type = any # (string, boolean, etc)
 }
 
-# Next find an idea
+# Amplify
