@@ -1,11 +1,6 @@
 # Local .terraform directories
 **/.terraform/*
 .terraform/providers/registry.terraform.io/hashicorp/aws/5.15.0/darwin_arm64/terraform-provider-aws_v5.15.0_x5
-<<<<<<< HEAD
-# This file is hard to get rid of test
-=======
-
->>>>>>> 529199f (remove .terraform file)
 
 # .tfstate files
 *.tfstate
