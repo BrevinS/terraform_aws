@@ -1,14 +1,7 @@
 {
-  "homepage": "terraform_aws/amplifyapp/public",
   "dependencies": {
     "@aws-amplify/ui-react": "^5.3.0",
     "aws-amplify": "^5.3.10",
     "react-scripts": "^5.0.1"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
   }
 }
