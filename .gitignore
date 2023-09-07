@@ -56,7 +56,4 @@ amplifytools.xcconfig
 .secret-*
 **.sample
 #amplify-do-not-edit-end
-
-#remove yarn.lock
-yarn.lock
 .terraform.lock.hcl
